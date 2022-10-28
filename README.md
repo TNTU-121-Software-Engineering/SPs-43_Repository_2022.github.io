@@ -1,2 +1,2 @@
-# SPs-43_Repository_2022
+# SPs-43_Repository_2022.github.io
 СПс-43
