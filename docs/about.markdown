@@ -8,7 +8,7 @@ A news portal is a network media resource that specializes in news content and p
 
 You can find the developers' Github accounts here:
 [BortnyakA](https://github.com/BortnyakA) /
-[SarnovskyV](https://github.com/jekyll/minima)
+[SarnovskyV](https://github.com/SarnovskyV)
 
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
