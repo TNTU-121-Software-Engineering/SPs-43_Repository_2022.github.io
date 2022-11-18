@@ -18,16 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: World News
+email: bartez.fabn@gmail.com
+email: sarnovsky29@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A news portal is a network media resource that specializes in news content and performs the function of mass media on the Internet.
 baseurl: "/SPs-43_Repository_2022.github.io" # the subpath of your site, e.g. /blog
 url: "https://tntu-121-software-engineering.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  SarnovskyV
+github_username:  BortnyakA
 
 # Build settings
 theme: minima
